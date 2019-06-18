@@ -1,4 +1,4 @@
-# SQL-Basic-School-Schedule
+# Basic School Schedule - SQL
 Projeto da disciplina Gerenciamento de Dados e Informação que consiste em uma simulação de banco de dados de uma agenda acadêmica básica, permitindo dois tipos de registro (professor ou aluno).
 Link do script no Oracle Sever (onde é possível ver as tabelas resultantes das consultas): https://livesql.oracle.com/apex/livesql/s/gukp5i7esvdp17ns50x1am0wu
 # Minimundo:
