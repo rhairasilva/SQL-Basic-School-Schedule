@@ -1,5 +1,5 @@
 REM   Script: Projeto Final GDI  4.0
-REM   Dupla: Hudo Leonardo e Rhaíra Keitianne.
+REM   Aluna: Rhaíra Keitianne.
 
 create table Pessoa    
 (CPF nvarchar2 (14) not null,    
