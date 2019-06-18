@@ -1,5 +1,6 @@
 REM   Script: Projeto Final GDI  4.0
 REM   Aluna: Rhaíra Keitianne. 
+REM   Link no Oracle Server (é possível ver as tabelas resultantes das consultas): https://livesql.oracle.com/apex/livesql/s/gukp5i7esvdp17ns50x1am0wu
 
 create table Pessoa    
 (CPF nvarchar2 (14) not null,    
