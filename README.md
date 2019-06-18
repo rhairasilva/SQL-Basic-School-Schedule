@@ -1,7 +1,7 @@
 # SQL-Basic-School-Schedule
 Projeto da disciplina Gerenciamento de Dados e Informação que consiste em uma simulação de banco de dados de uma agenda acadêmica básica, permitindo dois tipos de registro (professor ou aluno).
 # Minimundo:
-Aplicativo que permite fazer dois tipos de registro: professor ou aluno.
+Aplicativo que permite fazer dois tipos de registro: professor ou aluno. //
 Haverá cinco entidades: Pessoa, Conta, Aluno, Professor e Disciplina.
 Pessoa deve ter como atributos CPF (único, o mesmo CPF não pode ser usado mais de uma vez), nome, sexo, data de nascimento e nacionalidade.
 Conta deve ter como atributos email (único, o mesmo email não pode ser usado mais de uma vez), instituição de ensino e senha.
